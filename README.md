@@ -5,6 +5,6 @@ Horiseon, a SEO company, has requested to have someone else improve their websit
 
 Installation:
 For installation and set up click on the Github pages URL 
-or go to the Github repository: artbat6/outsourced-SEO-refactoring-for-SEO-company 
+or go to the Github repository: artbat6/outsourced-SEO-refactoring
 
 Author: Arthur Bates
