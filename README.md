@@ -9,4 +9,4 @@ or go to the Github repository: artbat6/outsourced-SEO-refactoring
 
 Author: Arthur Bates
 
-![screenshot](./Develop/assets/images/screenshot.png)
+![screenshot](Develop/assets/images/screenshot.png)
