@@ -8,3 +8,5 @@ For installation and set up click on the Github pages URL
 or go to the Github repository: artbat6/outsourced-SEO-refactoring
 
 Author: Arthur Bates
+
+![screenshot](./Develop/assets/images/screenshot.png)
